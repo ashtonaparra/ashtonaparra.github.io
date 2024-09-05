@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Security Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "ashtonaparra", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "ashtonaparra", "url": "http://linkedin.com/in/changeme" }
+      { "network": "github", "username": "ashtonaparra", "url": "http://github.com/ashtonaparra" },
+      { "network": "linkedin", "username": "ashtonaparra", "url": "http://linkedin.com/in/ashtonaparra" }
     ]
   },
   "interests": [
@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript",]
+      "keywords": [ "C", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
