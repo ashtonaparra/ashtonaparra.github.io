@@ -6,12 +6,14 @@ title: "Cotton"
 date: 2023
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - School Project
+  - Group Project
+  - Teamwork
+  - C++
 summary: "A hotel management system that my peers and I developed for ICS 212."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="[../img/cotton/cotton-header.png](https://media.istockphoto.com/id/1079547122/vector/simple-modern-hotel-building.jpg?s=612x612&w=0&k=20&c=7O3e-Q7AG4AdrPLstA0jli7ytlFGMiYOFlFetJz4ZXc=)">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
