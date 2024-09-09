@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/hotel.jpg
 title: "Hotel Management"
 date: 2023
 published: true
@@ -64,5 +64,3 @@ class Customer {
     int getRoomCheckedInto() { return roomCheckedInto; }
 };
 ```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
