@@ -11,7 +11,7 @@ labels:
   - Bio
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/programming.jpg">
 
 *It's not about the destination, it's about the journey.*
 
