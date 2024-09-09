@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/tacoCat.jpg
-title: "Palindrome checker"
+title: "Palindrome Checker"
 date: 2023
 published: true
 labels:
