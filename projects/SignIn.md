@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/signIn.png
 title: "Sign-in"
 date: 2024
 published: true
