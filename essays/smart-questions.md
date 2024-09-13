@@ -13,11 +13,11 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/think.png">
 
-Asking smart questions is vital for software engineers, particularly in open-source communities or forums like StackOverflow. Smart questions clearly define the problem, show prior research and efforts, and invite meaningful discussion. Eric Raymond, in his essay "How to Ask Questions the Smart Way," emphasizes that well-posed questions lead to better responses, more effective collaboration, and higher-quality answers. In this essay, I will analyze one well-crafted question and one poorly posed question from StackOverflow to highlight how these principles impact the kind of help that is received.
+Asking smart questions is vital for software engineers, particularly in open-source communities or forums like StackOverflow. Smart questions clearly define the problem, show prior research and efforts, and invite meaningful discussion. In his essay "How to Ask Questions the Smart Way," Eric Raymond emphasizes that well-posed questions lead to better responses, more effective collaboration, and higher-quality answers. In this essay, I will analyze one well-crafted question and one poorly posed question from StackOverflow to highlight how these principles impact the kind of help that is received.
 
 ## The Smart Question
 
-Question Summary: The smart question is titled “Why is processing a sorted array faster than processing an unsorted array?”. The user asks why a specific behavior is observed when sorting arrays in C++. The developer provides a clear description of their environment and experience: they had been testing performance in C++, found that processing a sorted array was consistently faster, and wanted to understand the reason behind this observation.
+Question Summary: The smart question is titled [“Why is processing a sorted array faster than processing an unsorted array?”](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array). The user asks why a specific behavior is observed when sorting arrays in C++. The developer provides a clear description of their environment and experience: they had been testing performance in C++, found that processing a sorted array was consistently faster, and wanted to understand the reason behind this observation.
 
 ```cpp
 Q: Why is processing a sorted array faster than processing an unsorted array?
@@ -72,7 +72,7 @@ Outcome: Because the question was well-formed, it sparked a detailed and enlight
 
 ## The Not So Smart Question
 
-Question Summary: The second question is titled “How to insert one string into the middle of another string?”. Here, the user is asking how to insert a string into the middle of another string using Python. However, the question lacks context, clarity, and any sign of effort. The developer simply states what they want to achieve without any details about their code, what they've tried, or the difficulties they've encountered.
+Question Summary: The second question is titled [“How to insert one string into the middle of another string?”](https://stackoverflow.com/questions/15442956/how-to-insert-one-string-into-the-middle-of-another-string). Here, the user is asking how to insert a string into the middle of another string using Python. However, the question lacks context, clarity, and any sign of effort. The developer simply states what they want to achieve without any details about their code, what they've tried, or the difficulties they've encountered.
 
 ```java
 Q: How to insert one string into the middle of another string?
