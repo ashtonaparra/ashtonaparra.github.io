@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Two Sides of The Coin"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-12
+date: 2024-09-12
 published: true
 labels:
   - Questions
