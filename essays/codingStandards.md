@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "The Past, Present, and Future"
+title: "Coding Standards: The Key to Better Code"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-26
 published: true
 labels:
-  - Engineering
+  - Software Engineering
   - Education
-  - Bio
+  - Programming
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/standards.png">
