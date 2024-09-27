@@ -30,7 +30,7 @@ For instance, ESLint constantly reminded me to declare variables or ensure that 
 
 ## The Value of Painful Learning
 
-The pain of fixing ESLint errors is not without its benefits. It’s similar to the discomfort one feels while learning any new skill. The process of resolving ESLint issues made me more aware of my own coding tendencies—both good and bad. I learned to write smaller functions, break down large blocks of code, and refactor logic in ways that were not only syntactically correct but also aligned with industry best practices.
+The pain of fixing ESLint errors is not without its benefits. It’s similar to the discomfort one feels while learning any new skill. The process of resolving ESLint issues made me more aware of my coding tendencies—both good and bad. I learned to write smaller functions, break down large blocks of code, and refactor logic in ways that were not only syntactically correct but also aligned with industry best practices.
 
 This goes beyond syntax enforcement. It teaches you to write code that others can easily understand. When working on team projects, having consistent code style and structure reduces the cognitive load when switching between codebases or debugging someone else’s work. And this consistency pays off over time, especially in collaborative environments.
 
