@@ -5,51 +5,38 @@ type: essay
 title: "Coding Standards: The Key to Better Code"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-26
-published: false
+published: true
 labels:
-  - Engineering
+  - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/standards.png">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## The Impact of Coding Standards: A Gateway to Mastering Software Engineering
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+When people hear "coding standards," the conversation often veers into the seemingly mundane: How many spaces to indent? Where to place the curly braces? These discussions can appear trivial, but coding standards are far more than cosmetic choices. They represent a set of best practices that improve code quality, maintainability, and readability, often acting as a gateway to a deeper understanding of the language itself.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## A Different Take on Coding Standards
+I firmly believe that adopting coding standards can have a transformative effect on learning a programming language. This is especially true when those standards are enforced through automated tools like ESLint in JavaScript or TypeScript development. By guiding developers to write clean, consistent code, these tools ensure that we not only follow stylistic conventions but also avoid common pitfalls that could lead to bugs. When used properly, coding standards can turn the abstract rules of a language into a concrete learning experience, helping developers internalize syntax, design patterns, and best practices without realizing it.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+For example, ESLint doesn't just tell you when you're missing a semicolon; it can also flag deeper issues, like unused variables, functions with too many responsibilities, or unsafe coding patterns. Fixing these errors forces you to engage more fully with the language and its intricacies, often leading to a better understanding of how your code works under the hood.
 
-Here's what I think: the difficult things will always be difficult.
+## My Experience with ESLint in VSCode
+After my first week of using ESLint in VSCode, I've found cleaning up errors both challenging and rewarding. Initially, it did feel a bit like a chore—after all, no one likes seeing a flood of red squiggly lines every time they run their code. However, the discipline it instills is invaluable.
 
-## In the context of programming
+For instance, ESLint constantly reminded me to declare variables or ensure that my imports and exports were properly structured. At first, resolving these errors was frustrating, especially when it seemed like I was getting caught on small details. But I soon realized that each “small” error had a deeper purpose. These reminders enforced coding habits that made my code more efficient and readable, and they helped me avoid issues that could escalate later in larger projects.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## The Value of Painful Learning
+The pain of fixing ESLint errors is not without its benefits. It’s similar to the discomfort one feels while learning any new skill. The process of resolving ESLint issues made me more aware of my own coding tendencies—both good and bad. I learned to write smaller functions, break down large blocks of code, and refactor logic in ways that were not only syntactically correct but also aligned with industry best practices.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+This goes beyond syntax enforcement. It teaches you to write code that others can easily understand. When working on team projects, having consistent code style and structure reduces the cognitive load when switching between codebases or debugging someone else’s work. And this consistency pays off over time, especially in collaborative environments.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+## Beyond the Basics: Coding Standards as a Philosophy
+I think the real power of coding standards lies in their ability to serve as a foundation for more sophisticated software engineering principles. Clean code doesn’t just happen by accident—it’s the result of deliberate choices. When you follow coding standards, you often implicitly follow well-established design principles, such as SOLID, DRY (Don’t Repeat Yourself), or YAGNI (You Ain’t Gonna Need It).
 
-## In the context of engineering
+These principles are about more than just formatting; they’re about writing code that is robust, flexible, and scalable. When enforced through tools like ESLint, coding standards can help developers learn to avoid anti-patterns, manage complexity, and improve overall code quality.
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+## Conclusion: The Subtle Power of Standards
+Far from being trivial, coding standards are one of the most powerful techniques for improving code quality, especially when you're still learning. They force you to slow down, consider your choices, and pay attention to the fine details. While ESLint may seem like a strict teacher, it's one whose lessons will make you a more disciplined, thoughtful, and capable developer in the long run.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+In short, coding standards may start with decisions about where to place a curly brace, but they quickly evolve into a deeper conversation about what it means to write good code. The effort to get rid of those ESLint errors may be painful at first, but in the end, it's an investment in writing cleaner, better code—both for yourself and for your team
