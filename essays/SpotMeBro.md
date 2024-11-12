@@ -41,7 +41,7 @@ Once registered, users can create a profile that showcases their strengths acros
 **Support & Resources:** A page with links to fitness articles, nutritional advice, and local gym directories to support users in achieving their fitness goals.
 
 Example Layout Idea:
-<img src="../img/spot-me-bro-mockups.png">
+<img src="../img/spot-me-bro-mockups.png" alt="SpotMeBro Mockup" width="60%" style="max-width: 600px; height: auto; display: block; margin: 0 auto;">
 
 
 ## Use Case Ideas
