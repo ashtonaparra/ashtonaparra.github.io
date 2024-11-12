@@ -41,7 +41,8 @@ Once registered, users can create a profile that showcases their strengths acros
 **Support & Resources:** A page with links to fitness articles, nutritional advice, and local gym directories to support users in achieving their fitness goals.
 
 Example Layout Idea:
-![](img/spot-me-bro-mockups.png)
+<img src="../img/standards.png">
+
 
 ## Use Case Ideas
 **Finding a Gym Buddy:** Users looking for motivation can easily find and connect with gym partners who have similar fitness goals, leading to a more enjoyable workout experience.
